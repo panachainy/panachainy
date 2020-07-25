@@ -1,4 +1,36 @@
-### Hi there 👋
+### Hi there I'm GOLF 👋
+
+About me
+
+Experience on work:
+- Provide service by dotnet Core 2.1 plus
+- Provide service by Loopback4
+- Provide service by Spring MVC
+- Provide service by Spring boot
+- CI CD on Circleci, Arzure, Github(pipeline)
+- Cypress for E2E test
+- TDD
+- Telerik framwork for dotnet core (MVC)
+- Identity UI for dotnet core web (MVC)
+- Postgress, MSSQL, Oracle
+- K8S (use only)
+- Docker
+- Github such as gitflow pullrequest braching
+- API Blueprint
+
+Experience on mini project:
+- Firebase hosting (Vuejs, Reactjs)
+- Basic Vuejs such as vuex route vuetify
+- Basic React such as jsx route.
+- Basic Nodejs such as express.
+- Mysql
+- CI CD ArzureDevOps to Azure Clound
+
+Interesting:
+- develop role to express vuejs dotnetCore Loopback4.
+- K8S AWS Arzure GoogleClound HuaweiCloud .
+- Fullstack.
+- Improve my english skill
 
 <!--
 **panachainy/panachainy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
