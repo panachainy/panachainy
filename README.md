@@ -14,7 +14,7 @@ Experience on work:
 - Identity UI for dotnet core web (MVC)
 - Postgress, MSSQL, Oracle
 - K8S (use only)
-- Docker
+- Docker - Docker-compose
 - Github such as gitflow pullrequest braching
 - API Blueprint
 
