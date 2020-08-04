@@ -1,10 +1,11 @@
-### Hi there I'm GOLF 👋
+## Hi there I'm GOLF 👋
 
 [![PanachaiNY github stats](https://github-readme-stats.vercel.app/api?username=panachainy&show_icons=true&hide=contribs)](https://github.com/panachainy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panachainy&layout=compact)](https://github.com/panachainy)
 
 Experience on work:
+
 - Provide service by dotnet Core 2.1 plus
 - Provide service by Loopback4
 - Provide service by Spring MVC
@@ -21,6 +22,7 @@ Experience on work:
 - API Blueprint
 
 Experience on mini project:
+
 - Firebase hosting (Vuejs, Reactjs)
 - Basic Vuejs such as vuex route vuetify
 - Basic React such as jsx route.
@@ -29,7 +31,8 @@ Experience on mini project:
 - CI CD ArzureDevOps to Azure Clound
 
 Interesting:
-- develop role to express vuejs dotnetCore Loopback4.
+
+- Develop role to express vuejs dotnetCore Loopback4.
 - K8S AWS Arzure GoogleClound HuaweiCloud .
 - Fullstack.
 - Improve my english skill
