@@ -1,6 +1,8 @@
 ### Hi there I'm GOLF 👋
 
-About me
+[![PanachaiNY github stats](https://github-readme-stats.vercel.app/api?username=panachainy&show_icons=true&hide=contribs)](https://github.com/panachainy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panachainy&layout=compact)](https://github.com/panachainy)
 
 Experience on work:
 - Provide service by dotnet Core 2.1 plus
@@ -31,6 +33,10 @@ Interesting:
 - K8S AWS Arzure GoogleClound HuaweiCloud .
 - Fullstack.
 - Improve my english skill
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **panachainy/panachainy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
