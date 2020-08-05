@@ -39,6 +39,7 @@ Interesting:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Test](https://cornblog.netlify.app/posts/20200802/test/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
