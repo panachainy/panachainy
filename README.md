@@ -39,7 +39,11 @@ Interesting:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Test](https://cornblog.netlify.app/posts/20200802/test/)
+- [Install Node.js with brew for mac os](https://cornblog.netlify.app/en/posts/20200809/install-node-with-brew/)
+- [Install Yarn with brew](https://cornblog.netlify.app/en/posts/20200809/install-yarn-with-brew/)
+- [ติดตั้ง Node.js ด้วย brew บน mac os](https://cornblog.netlify.app/th/posts/20200809/install-node-with-brew/)
+- [ติดตั้ง Yarn ด้วย brew](https://cornblog.netlify.app/th/posts/20200809/install-yarn-with-brew/)
+- [Install JAVA with brew](https://cornblog.netlify.app/en/posts/20200809/install-java-with-brew/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
