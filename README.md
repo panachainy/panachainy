@@ -6,38 +6,38 @@
 
 Now Interesting:
 
-- Develop role to express vuejs dotnetCore Loopback4.
+- Develop role to Express.js, Vue.js, .NET Core, LoopBack 4
 - K8S AWS Arzure GoogleClound HuaweiCloud .
-- Fullstack.
+- Full Stack.
 - Improve my english skill
 - Typescript - loopback4
 - Vue.js
 
 Experience on work:
 
-- Provide service by dotnet Core 2.1 plus
-- Provide service by Loopback4
-- Provide service by Spring MVC
-- Provide service by Spring boot
-- CI CD on Circleci, Arzure, Github(pipeline)
+- Provide service by .NET Core 2.1 plus
+- Provide service by LoopBack 4
+- Provide service by Spring Framework
+- Provide service by Spring Boot
+- CI CD on Circleci, Arzure, Github (pipeline)
 - Cypress for E2E test
 - TDD
-- Telerik framwork for dotnet core (MVC)
-- Identity UI for dotnet core web (MVC)
+- Telerik framwork for .NET Core (MVC)
+- Identity UI for .NET Core web (MVC)
 - Postgress, MSSQL, Oracle
 - K8S (use only)
-- Docker - Docker-compose
-- Github such as gitflow pullrequest braching
+- Docker - Docker Compose
+- Github such as GitFlow PullRequest Branching
 - API Blueprint
 
 Experience on mini project:
 
-- Firebase hosting (Vuejs, Reactjs)
-- Basic Vuejs such as vuex route vuetify
-- Basic React such as jsx route.
-- Basic Nodejs such as express.
-- Mysql
-- CI CD ArzureDevOps to Azure Clound
+- Firebase hosting (Vue.js, React)
+- Basic Vue.js such as Vuex route Vuetify
+- Basic React such as JSX route.
+- Basic Node.js such as Express.js.
+- MySQL
+- CI CD Azure DevOps to Microsoft Azure
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
