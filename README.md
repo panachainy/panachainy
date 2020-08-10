@@ -4,6 +4,15 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panachainy&layout=compact)](https://github.com/panachainy)
 
+Now Interesting:
+
+- Develop role to express vuejs dotnetCore Loopback4.
+- K8S AWS Arzure GoogleClound HuaweiCloud .
+- Fullstack.
+- Improve my english skill
+- Typescript - loopback4
+- Vue.js
+
 Experience on work:
 
 - Provide service by dotnet Core 2.1 plus
@@ -29,13 +38,6 @@ Experience on mini project:
 - Basic Nodejs such as express.
 - Mysql
 - CI CD ArzureDevOps to Azure Clound
-
-Interesting:
-
-- Develop role to express vuejs dotnetCore Loopback4.
-- K8S AWS Arzure GoogleClound HuaweiCloud .
-- Fullstack.
-- Improve my english skill
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
