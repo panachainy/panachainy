@@ -39,11 +39,11 @@ Interesting:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Install JAVA with brew](https://cornblog.netlify.app/en/posts/20200809/install-java-with-brew/)
-- [Install Node.js with brew for mac os](https://cornblog.netlify.app/en/posts/20200809/install-node-with-brew/)
-- [Install Yarn with brew](https://cornblog.netlify.app/en/posts/20200809/install-yarn-with-brew/)
-- [ติดตั้ง JAVA ด้วย brew](https://cornblog.netlify.app/th/posts/20200809/install-java-with-brew/)
-- [ติดตั้ง Node.js ด้วย brew บน mac os](https://cornblog.netlify.app/th/posts/20200809/install-node-with-brew/)
+- [Setup & Tips IntelliJ IDEA](https://cornblog.netlify.app/en/posts/20200810/setup-intellij-101/)
+- [ติดตั้งและเทคนิค การใช้งาน IntelliJ IDEA](https://cornblog.netlify.app/th/posts/20200810/setup-intellij-101/)
+- [Install JAVA with brew on mac os](https://cornblog.netlify.app/en/posts/20200809/install-java-with-brew/)
+- [Install Node.js with brew on mac os](https://cornblog.netlify.app/en/posts/20200809/install-node-with-brew/)
+- [Install Yarn with brew on mac os](https://cornblog.netlify.app/en/posts/20200809/install-yarn-with-brew/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
