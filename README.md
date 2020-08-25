@@ -64,11 +64,11 @@ Experience on mini project:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Setup & Tips IntelliJ IDEA](https://cornblog.netlify.app/en/posts/20200810/setup-intellij-101/)
-- [ติดตั้งและเทคนิค การใช้งาน IntelliJ IDEA](https://cornblog.netlify.app/th/posts/20200810/setup-intellij-101/)
-- [Install JAVA with brew on mac os](https://cornblog.netlify.app/en/posts/20200809/install-java-with-brew/)
-- [Install Node.js with brew on mac os](https://cornblog.netlify.app/en/posts/20200809/install-node-with-brew/)
-- [Install Yarn with brew on mac os](https://cornblog.netlify.app/en/posts/20200809/install-yarn-with-brew/)
+- [วิธีเปลี่ยน code command ให้เรียกใช้ vscode insiders - How to custom code command to VSCode…](https://medium.com/@panachai.ny/%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99-code-command-%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%81%E0%B9%83%E0%B8%8A%E0%B9%89-vscode-insiders-how-to-custom-code-command-to-vscode-2a551f6913f1?source=rss-a8381aa83da7------2)
+- [[VS Code] Profile Switcher เปลี่ยน setting พร้อม extension แบบง่ายๆ ~](https://medium.com/@panachai.ny/vs-code-profile-switcher-%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99-setting-%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1-extension-%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B9%86-d31c18baa229?source=rss-a8381aa83da7------2)
+- [[Spring boot] Implment CodeCov on Spring boot (Very easy~)](https://medium.com/@panachai.ny/spring-boot-implment-codecov-on-spring-boot-very-easy-b90b9fff870c?source=rss-a8381aa83da7------2)
+- [[Spring boot] Init and Improve jacoco code coverage on Spring boot](https://medium.com/@panachai.ny/spring-boot-init-and-improve-jacoco-code-coverage-on-spring-boot-bddd883c76eb?source=rss-a8381aa83da7------2)
+- [[Notes คำสั่งที่ใช้บ่อยๆ] Basic Grid Bootstrap 4](https://medium.com/@panachai.ny/notes-%E0%B8%84%E0%B8%B3%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%9A%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B9%86-basic-grid-bootstrap-4-908b6066ee9a?source=rss-a8381aa83da7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
