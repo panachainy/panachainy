@@ -64,11 +64,11 @@ Experience on mini project:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to install java with](https://medium.com/@panachai.ny/how-to-install-java-with-4ea602ac0e77?source=rss-a8381aa83da7------2)
+- [[JAVA] การติดตั้งและเทคนิค การใช้งาน IntelliJ IDEA](https://medium.com/@panachai.ny/java-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%84%E0%B8%99%E0%B8%B4%E0%B8%84-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-intellij-idea-913fedce3f84?source=rss-a8381aa83da7------2)
+- [[JAVA] ติดตั้ง JAVA บน Mac os ด้วย brew](https://medium.com/@panachai.ny/java-%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-java-%E0%B8%9A%E0%B8%99-mac-os-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-brew-efa1f0a17dbb?source=rss-a8381aa83da7------2)
 - [วิธีเปลี่ยน code command ให้เรียกใช้ vscode insiders - How to custom code command to VSCode…](https://medium.com/@panachai.ny/%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99-code-command-%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%81%E0%B9%83%E0%B8%8A%E0%B9%89-vscode-insiders-how-to-custom-code-command-to-vscode-2a551f6913f1?source=rss-a8381aa83da7------2)
 - [[VS Code] Profile Switcher เปลี่ยน setting พร้อม extension แบบง่ายๆ ~](https://medium.com/@panachai.ny/vs-code-profile-switcher-%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99-setting-%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1-extension-%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B9%86-d31c18baa229?source=rss-a8381aa83da7------2)
 - [[Spring boot] Implment CodeCov on Spring boot (Very easy~)](https://medium.com/@panachai.ny/spring-boot-implment-codecov-on-spring-boot-very-easy-b90b9fff870c?source=rss-a8381aa83da7------2)
-- [[Spring boot] Init and Improve jacoco code coverage on Spring boot](https://medium.com/@panachai.ny/spring-boot-init-and-improve-jacoco-code-coverage-on-spring-boot-bddd883c76eb?source=rss-a8381aa83da7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
