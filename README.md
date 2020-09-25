@@ -42,6 +42,7 @@ Experience on work:
 - Provide service by LoopBack 4
 - Provide service by Spring Framework
 - Provide service by Spring Boot
+- Provide libraly by kotlin
 - CI CD on Circleci, Arzure, Github (pipeline)
 - Cypress for E2E test
 - TDD
