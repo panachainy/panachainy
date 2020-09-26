@@ -29,7 +29,7 @@ Languages and Tools:
 
 Now Interesting:
 
-- Develop role to Express.js, Vue.js, .NET Core, LoopBack 4
+- Develop role with Express.js, Vue.js, Spring Boot (kotlin or java), LoopBack 4
 - K8S AWS Arzure GoogleClound HuaweiCloud .
 - Full Stack.
 - Improve my english skill
