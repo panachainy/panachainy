@@ -13,7 +13,6 @@ Languages and Tools:
 <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
@@ -22,11 +21,11 @@ Languages and Tools:
 
 Now Interesting:
 
-- Develop role with Express.js, Vue.js, Spring Boot (kotlin or java), LoopBack 4
-- K8S AWS Arzure GoogleClound HuaweiCloud .
+- Develop role with Backend TypeScript, Vue.js, Spring Boot (kotlin or java), LoopBack 4
+- K8S AWS GoogleClound HuaweiCloud Firebase
 - Full Stack.
-- Improve my english skill
-- Typescript - loopback4
+- Improve my English skill
+- TypeScript - loopback4
 - Vue.js
 
 Experience on work:
