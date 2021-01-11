@@ -54,11 +54,11 @@ Experience on mini project:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[GitHub Actions] Auto draft release with GitHub Actions](https://medium.com/@panachai-ny/github-actions-auto-draft-release-with-github-actions-fae5a532029?source=rss-a8381aa83da7------2)
 - [Markdown Tool Supporter~](https://medium.com/@panachai-ny/markdown-tool-supporter-cdba1ae85dee?source=rss-a8381aa83da7------2)
 - [[Node] n ตัวจัดการเวอร์ชั่น Node.js ที่ใช้งานง่ายกว่า nvm ~](https://medium.com/@panachai-ny/node-n-%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99-node-js-%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2-nvm-5452e07239b1?source=rss-a8381aa83da7------2)
 - [[MAC] ไม่ต้องมานั่งพิมพ์ password บ่อยๆอีกต่อไป วิธีใช้งานคำสั่ง sudo with touch ID](https://medium.com/@panachai-ny/mac-%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C-password-%E0%B8%9A%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B9%86%E0%B8%AD%E0%B8%B5%E0%B8%81%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%84%E0%B8%9B-%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%B3%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87-sudo-with-touch-id-44d1b5eea7d9?source=rss-a8381aa83da7------2)
 - [[JAVA] การติดตั้งและเทคนิค การใช้งาน IntelliJ IDEA](https://medium.com/@panachai-ny/java-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%84%E0%B8%99%E0%B8%B4%E0%B8%84-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-intellij-idea-913fedce3f84?source=rss-a8381aa83da7------2)
-- [[JAVA] ติดตั้ง JAVA บน Mac os ด้วย brew](https://medium.com/@panachai-ny/java-%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-java-%E0%B8%9A%E0%B8%99-mac-os-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-brew-efa1f0a17dbb?source=rss-a8381aa83da7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
