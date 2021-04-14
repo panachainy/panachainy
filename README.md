@@ -41,6 +41,10 @@ Experience on mini project:
 - MySQL
 - CI CD Azure DevOps to Microsoft Azure
 
+# New Blog
+
+https://panachai-ny.gitbook.io/blog/
+
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [[GitHub Actions] Auto add label with pr-labeler-action](https://panachai-ny.medium.com/github-actions-auto-add-label-with-pr-labeler-action-ba38e09c3d4c?source=rss-a8381aa83da7------2)
