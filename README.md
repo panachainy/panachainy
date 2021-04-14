@@ -4,44 +4,33 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panachainy&layout=compact)](https://github.com/panachainy)
 
-Languages and Tools:
-
-<p align="left">
-<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
-<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-</p>
-
 Now Interesting:
 
-- Develop role with Backend TypeScript, Vue.js, Spring Boot (kotlin or java), LoopBack 4
+- Develop role with Backend TypeScript, Vue.js, Spring Boot (Kotlin or Java), NestJS
 - K8S AWS GoogleClound HuaweiCloud Firebase
-- Full Stack.
+- Full Stack
 - Improve my English skill
-- TypeScript - loopback4
-- Vue.js
 
 Experience on work:
 
 - Provide service by .NET Core 2.1 plus
 - Provide service by LoopBack 4
+- Provide service by NestJS
 - Provide service by Spring Framework
 - Provide service by Spring Boot
-- Provide libraly by kotlin
-- CI CD on Circleci, Arzure, Github (pipeline)
+- Provide libraly by Kotlin & Java
+- CI CD on Circleci, Arzure, Github Action, AWS CodeBuild
 - Cypress for E2E test
 - TDD
 - Telerik framwork for .NET Core (MVC)
 - Identity UI for .NET Core web (MVC)
 - Postgress, MSSQL, Oracle
-- K8S (use only)
-- Docker - Docker Compose
+- K8S (only use)
+- Docker & Docker Compose
 - Github such as GitFlow PullRequest Branching
 - API Blueprint
+- Sentry
+- Argo CD (only use)
 
 Experience on mini project:
 
