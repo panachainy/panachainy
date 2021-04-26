@@ -31,6 +31,7 @@ Experience on work:
 - API Blueprint
 - Sentry
 - Argo CD (only use)
+- [Lens k8s IDE](https://k8slens.dev/)
 
 Experience on mini project:
 
