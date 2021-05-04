@@ -6,8 +6,8 @@
 
 Now Interesting:
 
-- Develop role with Backend TypeScript, Vue.js, Spring Boot (Kotlin or Java), NestJS
-- K8S AWS GoogleClound HuaweiCloud Firebase
+- Develop role with Backend TypeScript, Vue.js, NestJS, Golang
+- Challenge K8S AWS Firebase Golang
 - Full Stack
 - Improve my English skill
 
@@ -25,15 +25,17 @@ Experience on work:
 - Telerik framwork for .NET Core (MVC)
 - Identity UI for .NET Core web (MVC)
 - Postgress, MSSQL, Oracle
-- K8S (only use)
 - Docker & Docker Compose
 - Github such as GitFlow PullRequest Branching
-- API Blueprint
-- Sentry
+- [API Blueprint](https://apiblueprint.org)
+- [Sentry](https://sentry.io)
+- [Lens k8s IDE](https://k8slens.dev)
+- [Keycloak](https://www.keycloak.org)
+- Prometheus (only use)
 - Argo CD (only use)
-- [Lens k8s IDE](https://k8slens.dev/)
+- K8S (only use)
 
-Experience on mini project:
+Experience on hobby:
 
 - Firebase hosting (Vue.js, React)
 - Basic Vue.js such as Vuex route Vuetify
@@ -41,6 +43,7 @@ Experience on mini project:
 - Basic Node.js such as Express.js.
 - MySQL
 - CI CD Azure DevOps to Microsoft Azure
+- [Playwright](https://playwright.dev)
 
 # New Blog
 
