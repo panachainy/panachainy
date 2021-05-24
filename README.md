@@ -6,7 +6,7 @@
 
 Now Interesting:
 
-- Develop role with Backend TypeScript, Vue.js, NestJS, Golang
+- Develop role with Backend TypeScript, Vue.js, NestJS, Golang, Java - Spring boot, Kotlin - Spring boot
 - Challenge K8S AWS Firebase Golang
 - Full Stack
 - Improve my English skill
