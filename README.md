@@ -51,11 +51,11 @@ https://panachai-ny.gitbook.io/blog/
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[MySQL] วิธีสร้าง user เฉพาะ database บน MySQL Database Clusters บน DigitalOcean](https://panachai-ny.medium.com/mysql-how-to-create-user-to-specific-database-on-mysql-database-clusters-digitalocean-2abc595c5a9a?source=rss-a8381aa83da7------2)
 - [[GitHub Actions] Auto add label with pr-labeler-action](https://panachai-ny.medium.com/github-actions-auto-add-label-with-pr-labeler-action-ba38e09c3d4c?source=rss-a8381aa83da7------2)
 - [[GitHub Actions] Auto draft release with GitHub Actions](https://panachai-ny.medium.com/github-actions-auto-draft-release-with-github-actions-fae5a532029?source=rss-a8381aa83da7------2)
 - [Markdown Tool Supporter~](https://panachai-ny.medium.com/markdown-tool-supporter-cdba1ae85dee?source=rss-a8381aa83da7------2)
 - [[Node] n ตัวจัดการเวอร์ชั่น Node.js ที่ใช้งานง่ายกว่า nvm ~](https://panachai-ny.medium.com/node-n-%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99-node-js-%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2-nvm-5452e07239b1?source=rss-a8381aa83da7------2)
-- [[MAC] ไม่ต้องมานั่งพิมพ์ password บ่อยๆอีกต่อไป วิธีใช้งานคำสั่ง sudo with touch ID](https://panachai-ny.medium.com/mac-%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C-password-%E0%B8%9A%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B9%86%E0%B8%AD%E0%B8%B5%E0%B8%81%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%84%E0%B8%9B-%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%B3%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87-sudo-with-touch-id-44d1b5eea7d9?source=rss-a8381aa83da7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
