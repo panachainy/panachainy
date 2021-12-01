@@ -6,7 +6,7 @@
 
 Now Interesting:
 
-- Develop role with Backend TypeScript, Vue.js, NestJS, Golang, Java - Spring boot, Kotlin - Spring boot
+- Develop role with Backend TypeScript, Vue.js, Nuxt.js, NestJS, Golang, Java - Spring boot, Kotlin - Spring boot
 - Challenge K8S AWS Firebase Golang
 - Full Stack
 - Improve my English skill
@@ -36,6 +36,7 @@ Experience on work:
 - K8S (only use)
 - Provide service by fiber (Go)
 - DigitalOcean App Platform (include IaC with doctl)
+- Nuxt.js
 
 Experience on hobby:
 
