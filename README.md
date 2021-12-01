@@ -34,6 +34,8 @@ Experience on work:
 - Prometheus (only use)
 - Argo CD (only use)
 - K8S (only use)
+- Provide service by fiber (Go)
+- DigitalOcean App Platform (include IaC with doctl)
 
 Experience on hobby:
 
