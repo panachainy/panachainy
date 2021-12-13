@@ -6,7 +6,7 @@
 
 Now Interesting:
 
-- Develop role with Backend TypeScript, Vue.js, Nuxt.js, NestJS, Golang, Java - Spring boot, Kotlin - Spring boot
+- Develop role with Backend TypeScript, Vue.js, Nuxt.js, NestJS, Golang
 - Challenge K8S AWS Firebase Golang
 - Full Stack
 - Improve my English skill
@@ -24,7 +24,7 @@ Experience on work:
 - TDD
 - Telerik framwork for .NET Core (MVC)
 - Identity UI for .NET Core web (MVC)
-- Postgress, MSSQL, Oracle
+- Database: Postgress, MSSQL, Oracle
 - Docker & Docker Compose
 - Github such as GitFlow PullRequest Branching
 - [API Blueprint](https://apiblueprint.org)
@@ -34,13 +34,17 @@ Experience on work:
 - Prometheus (only use)
 - Argo CD (only use)
 - K8S (only use)
+- Sentry customise for LoopBack 4, JAVA and other
+- Auto config for load Sentry config apply to Sentry (make it like IaC)
 - Provide service by fiber (Go)
 - DigitalOcean App Platform (include IaC with doctl)
 - Nuxt.js
+- Database: MariaDB, Redis
 
 Experience on hobby:
 
 - Firebase hosting (Vue.js, React)
+- Firebase Realtime Database
 - Basic Vue.js such as Vuex route Vuetify
 - Basic React such as JSX route.
 - Basic Node.js such as Express.js.
