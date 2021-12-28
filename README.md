@@ -58,11 +58,11 @@ https://panachai-ny.gitbook.io/blog/
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[REDIS] วิธีลบ cache data ออกจาก Redis บน cloud](https://panachai-ny.medium.com/redis-how-to-delete-all-cache-on-remote-cloud-c41fdc92c45d?source=rss-a8381aa83da7------2)
 - [Try new API mock server ?ockoon](https://panachai-ny.medium.com/try-new-api-mock-server-ockoon-abc8c077d752?source=rss-a8381aa83da7------2)
 - [[VSCODE] แก้ปัญหาใช้ Tab ในการ accept autocomplete ของ GitHub Copilot ไม่ได้](https://panachai-ny.medium.com/bug-how-to-fix-cant-use-tab-key-for-accept-autocomplete-on-github-copilot-621c967a421a?source=rss-a8381aa83da7------2)
 - [[Typescript] วิธีการสร้างโปรเจค TypeScript](https://panachai-ny.medium.com/how-to-start-typescript-project-5a6336ea4bea?source=rss-a8381aa83da7------2)
 - [[Gmail] วิธี Generate app password ด้วย google account สำหรับส่ง email](https://panachai-ny.medium.com/how-generate-password-app-with-google-account-for-send-email-via-gmail-9e7d91f1c59d?source=rss-a8381aa83da7------2)
-- [[Docker] How to fix SSL on Dockerfile](https://panachai-ny.medium.com/docker-how-to-fix-ssl-on-dockerfile-2cb4bdf22a25?source=rss-a8381aa83da7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
