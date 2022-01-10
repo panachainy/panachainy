@@ -52,10 +52,6 @@ Experience on hobby:
 - CI CD Azure DevOps to Microsoft Azure
 - [Playwright](https://playwright.dev)
 
-# New Blog
-
-https://panachai-ny.gitbook.io/blog/
-
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [[Typescript] How to get version from package.json in typescript](https://panachai-ny.medium.com/typescript-how-to-get-version-from-package-in-typescript-dcaf6ef4b90c?source=rss-a8381aa83da7------2)
