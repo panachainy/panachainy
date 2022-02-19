@@ -54,11 +54,11 @@ Experience on hobby:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[node] How to mock date in test Jest](https://panachai-ny.medium.com/node-how-to-mock-date-in-test-jest-618103405f5f?source=rss-a8381aa83da7------2)
 - [[Typescript] How to get version from package.json in typescript](https://panachai-ny.medium.com/typescript-how-to-get-version-from-package-in-typescript-dcaf6ef4b90c?source=rss-a8381aa83da7------2)
 - [[TOOLS] ngrok เพื่อชีวิต Dev ที่ง่ายขึ้น](https://panachai-ny.medium.com/tools-ngrok-%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%95-dev-%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99-431b38b309c3?source=rss-a8381aa83da7------2)
 - [[REDIS] วิธีลบ cache data ออกจาก Redis บน cloud](https://panachai-ny.medium.com/redis-how-to-delete-all-cache-on-remote-cloud-c41fdc92c45d?source=rss-a8381aa83da7------2)
 - [Try new API mock server ?ockoon](https://panachai-ny.medium.com/try-new-api-mock-server-ockoon-abc8c077d752?source=rss-a8381aa83da7------2)
-- [[VSCODE] แก้ปัญหาใช้ Tab ในการ accept autocomplete ของ GitHub Copilot ไม่ได้](https://panachai-ny.medium.com/bug-how-to-fix-cant-use-tab-key-for-accept-autocomplete-on-github-copilot-621c967a421a?source=rss-a8381aa83da7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
