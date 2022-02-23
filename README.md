@@ -40,6 +40,7 @@ Experience on work:
 - DigitalOcean App Platform (include IaC with doctl)
 - Nuxt.js
 - Database: MariaDB, Redis
+- Line OA / Line API
 
 Experience on hobby:
 
