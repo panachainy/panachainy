@@ -6,54 +6,24 @@
 
 Now Interesting:
 
-- Develop application with modern tech stacks (Go, gRPC, NestJS, Real Microservices, K8S, AWS, Firebase, Message Queue)
+- Develop application with modern tech stacks (Go, gRPC, Real Microservices, K8S, AWS, Firebase, Message Queue, Vue.js/Nuxt.js)
 - Backend or Full Stack
 - Improve my English skill
 
-Experience on work:
+Stack Experiences:
 
-- Provide service by .NET Core 2.1 plus
-- Provide service by LoopBack 4
-- Provide service by NestJS
-- Provide service by Spring Framework
-- Provide service by Spring Boot
-- Provide libraly by Kotlin & Java
-- CI CD on Circleci, Arzure, Github Action, AWS CodeBuild
-- Cypress for E2E test
-- TDD
-- Telerik framwork for .NET Core (MVC)
-- Identity UI for .NET Core web (MVC)
-- Database: Postgress, MSSQL, Oracle
-- Docker & Docker Compose
-- Github such as GitFlow PullRequest Branching
-- [API Blueprint](https://apiblueprint.org)
-- [Sentry](https://sentry.io)
-- [Lens k8s IDE](https://k8slens.dev)
-- [Keycloak](https://www.keycloak.org)
-- Prometheus (only use)
-- Argo CD (only use)
-- K8S (only use)
-- Sentry customise for LoopBack 4, JAVA and other
-- Auto config for load Sentry config apply to Sentry (make it like IaC)
-- Provide service by fiber (Go)
-- DigitalOcean App Platform (include IaC with doctl)
-- Nuxt.js
-- Database: MariaDB, Redis
-- Line OA / Line API
-- Google analytic (GA4)
-- Google Tag manager (GTM) + Custom per button
-- Revamp legacy code to fiber (Golang) + Nuxtjs
+- Provide service by Fiber (Golang), .NET Core 2.1 plus, Spring Boot, NestJS, LoopBack 4, Spring Framework
+- Provide library by Golang, .NET Core 2.1 plus, Kotlin & Java
+- Provide web by Vue.js/Nuxt.js
+- Database: Postgress, MariaDB, Redis, MSSQL, MySQL, Oracle
+- CI/CD on Github Action, Circleci, AWS CodeBuild, Arzure
+- E2E Testing with [Playwright](https://playwright.dev), Cypress
+- DevOps: DigitalOcean App Platform (include IaC with doctl), Argo CD (only use), K8S (only use), Docker, [Lens k8s IDE](https://k8slens.dev)
+- Monitoring tools: [Sentry](https://sentry.io)
+- Analytics tools: Google analytic (GA4), Google Tag manager (GTM) + Custom per button
+- Mocks API: [API Blueprint](https://apiblueprint.org), [Mockoon](https://mockoon.com/)
 
-Experience on hobby:
-
-- Firebase hosting (Vue.js, React)
-- Firebase Realtime Database
-- Basic Vue.js such as Vuex route Vuetify
-- Basic React such as JSX route.
-- Basic Node.js such as Express.js.
-- MySQL
-- CI CD Azure DevOps to Microsoft Azure
-- [Playwright](https://playwright.dev)
+> [Tools more](https://panachai-ny.medium.com/note-recommended-extension-visual-studio-code-visual-studio-tool-for-dev-tool-utilities-fa4975591979)
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
