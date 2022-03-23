@@ -41,6 +41,9 @@ Experience on work:
 - Nuxt.js
 - Database: MariaDB, Redis
 - Line OA / Line API
+- Google analytic (GA4)
+- Google Tag manager (GTM) + Custom per button
+- Revamp legacy code to fiber (Golang) + Nuxtjs
 
 Experience on hobby:
 
