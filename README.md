@@ -6,9 +6,8 @@
 
 Now Interesting:
 
-- Develop role with Backend TypeScript, Vue.js, Nuxt.js, NestJS, Golang
-- Challenge K8S AWS Firebase Golang
-- Full Stack
+- Develop application with modern tech stacks (Go, gRPC, NestJS, Real Microservices, K8S, AWS, Firebase, Message Queue)
+- Backend or Full Stack
 - Improve my English skill
 
 Experience on work:
