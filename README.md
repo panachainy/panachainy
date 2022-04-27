@@ -27,7 +27,7 @@ Stack Experiences:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [วิธี print []*StructName](https://panachai-ny.medium.com/how-to-print-structname-40322709b4d9?source=rss-a8381aa83da7------2)
+- [[Golang] วิธี print []*StructName](https://panachai-ny.medium.com/how-to-print-structname-40322709b4d9?source=rss-a8381aa83da7------2)
 - [[Golang] หลักการเขียน Unit test และ การ Mockup สำหรับ Http Client พร้อมตัวอย่าง](https://panachai-ny.medium.com/golang-%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99-unit-test-%E0%B9%81%E0%B8%A5%E0%B8%B0-%E0%B8%81%E0%B8%B2%E0%B8%A3-mockup-%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A-http-client-%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87-cb165ee44383?source=rss-a8381aa83da7------2)
 - [[node] How to mock date in test Jest](https://panachai-ny.medium.com/node-how-to-mock-date-in-test-jest-618103405f5f?source=rss-a8381aa83da7------2)
 - [[Typescript] How to get version from package.json in typescript](https://panachai-ny.medium.com/typescript-how-to-get-version-from-package-in-typescript-dcaf6ef4b90c?source=rss-a8381aa83da7------2)
