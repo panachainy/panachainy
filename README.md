@@ -15,6 +15,10 @@ Now Interesting:
 
 Stack Experiences:
 
+- Golang stacks - Fiber, mockgen, gorm
+- Flutter stacks - go_router, flutter_bloc, cubit, retrofit(flutter), flutter_test, flutter_lints, flutter_localizations, flutter_gen
+- Cloud native AWS - AWS Lambda, AWS Amplify, AWS Cognito, AWS S3, AWS RDS (PostgreSQL), AWS CloudWatch, AWS SNS, AWS SQS, AWS API Gateway, AWS CloudFormation
+- Cloud native GCP - Firebase, Google Cloud Storage, Google Cloud Functions, Google Cloud Run, Google Cloud Logging
 - Provide service by Fiber (Golang), Flutter 3.x, .NET Core 2.1 plus, Spring Boot, NestJS, LoopBack 4, Spring Framework
 - Provide library by Golang, .NET Core 2.1 plus, Kotlin & Java
 - Provide web by Vue.js/Nuxt.js
