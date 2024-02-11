@@ -2,7 +2,8 @@ name: Latest blog post workflow2
 on:
   schedule:
     # Runs every AtMidnight and AtNoon
-    - cron: '0 0,12 * * *'
+    - cron: "0 0,12 * * *"
+  workflow_dispatch:
 
 jobs:
   update-readme-with-blog:
