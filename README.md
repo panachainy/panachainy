@@ -1,5 +1,7 @@
 ## Hi there I'm GOLF 👋
 
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/panachainy/)
+
 [![PanachaiNY github stats](https://github-readme-stats.vercel.app/api?username=panachainy&show_icons=true&hide=contribs)](https://github.com/panachainy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panachainy&layout=compact)](https://github.com/panachainy)
@@ -12,7 +14,7 @@ Now Interesting:
 
 Stack Experiences:
 
-- Provide service by Fiber (Golang), .NET Core 2.1 plus, Spring Boot, NestJS, LoopBack 4, Spring Framework
+- Provide service by Fiber (Golang), Flutter 3.x, .NET Core 2.1 plus, Spring Boot, NestJS, LoopBack 4, Spring Framework
 - Provide library by Golang, .NET Core 2.1 plus, Kotlin & Java
 - Provide web by Vue.js/Nuxt.js
 - Database: Postgress, MariaDB, Redis, MSSQL, MySQL, Oracle
