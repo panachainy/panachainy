@@ -6,8 +6,8 @@
 
 Now Interesting:
 
-- Develop application with modern tech stacks (Go, gRPC, Real Microservices, K8S, AWS, Firebase, Message Queue, Vue.js/Nuxt.js)
-- Backend, Full Stack, Flutter
+- Develop application with modern tech stacks (Go, gRPC, Flutter, K8S, AWS, Firebase, Message Queue, Vue.js/Nuxt.js)
+- Mobile, Backend, Full Stack
 - Improve my English skill
 
 Stack Experiences:
