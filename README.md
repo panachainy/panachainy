@@ -36,7 +36,7 @@ Stack Experiences:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ComfyUI in API Integration with HTTP Requests](https://panachai-ny.medium.com/comfyui-in-api-integration-with-http-requests-0fc5a7d7dfe1?source=rss-a8381aa83da7------2)
+- [[AI Image Generator] ComfyUI in API Integration with HTTP Requests](https://panachai-ny.medium.com/comfyui-in-api-integration-with-http-requests-0fc5a7d7dfe1?source=rss-a8381aa83da7------2)
 - [[AWS] how to mapping path params in Amazon API Gateway to AWS Lambda on Golang Part 2/2](https://panachai-ny.medium.com/aws-how-to-mapping-path-params-in-amazon-api-gateway-to-aws-lambda-on-golang-part-2-2-cd274e13c183?source=rss-a8381aa83da7------2)
 - [[AWS] how to mapping path params in Amazon API Gateway to AWS Lambda on Golang Part 1/2](https://panachai-ny.medium.com/aws-how-to-mapping-path-params-in-amazon-api-gateway-to-aws-lambda-15ca9e26df1a?source=rss-a8381aa83da7------2)
 - [How to import AWS infrastructure to Terraform](https://panachai-ny.medium.com/how-to-import-aws-infrastructure-to-terraform-a2a4db4511db?source=rss-a8381aa83da7------2)
