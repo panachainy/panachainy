@@ -8,8 +8,8 @@
 
 Now Interesting:
 
-- Develop application with modern tech stacks (Go, gRPC, Flutter, K8S, AWS, Firebase, Message Queue, Vue.js/Nuxt.js)
-- Mobile, Backend, Full Stack
+- Develop application with modern tech stacks (Go, gRPC, Flutter, K8S, AWS, Firebase, Message Queue, React/Next.js, Vue.js/Nuxt.js)
+- Positions: Technical Lead, Mobile, Backend, Full Stack
 - All AI stable diffusion, ChatGPT, DALL·E, etc.
 - Improve my English skill
 
