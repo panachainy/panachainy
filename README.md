@@ -20,7 +20,7 @@ Stack Experiences:
 - Cloud native AWS - AWS Lambda, AWS Amplify, AWS Cognito, AWS S3, AWS RDS (PostgreSQL), AWS CloudWatch, AWS SNS, AWS SQS, AWS API Gateway, AWS CloudFormation
 - Cloud native GCP - Firebase, Google Cloud Storage, Google Cloud Functions, Google Cloud Run, Google Cloud Logging
 - 3rd Party provide - Agora, ByteArk, Mux, 
-- IaC tools - Terraform, AWS CloudFormation
+- IaC tools - Terraform, Terragrunt, AWS CloudFormation
 - Provide service by Fiber (Golang), Flutter 3.x, .NET Core 2.1 plus, Spring Boot, NestJS, LoopBack 4, Spring Framework
 - Provide library by Golang, .NET Core 2.1 plus, Kotlin & Java
 - Provide web by Vue.js/Nuxt.js
