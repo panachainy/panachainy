@@ -36,11 +36,11 @@ Stack Experiences:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Jira card title+url to Notion](https://panachai-ny.medium.com/jira-card-title-url-to-notion-17e81c66ae74?source=rss-a8381aa83da7------2)
 - [How to pull AWS ECR private reposto local](https://panachai-ny.medium.com/how-to-pull-aws-ecr-private-reposto-local-eb0fffe78165?source=rss-a8381aa83da7------2)
 - [[AI Chat] How to install &amp; run Ollama in windows + wsl2](https://panachai-ny.medium.com/how-to-install-run-ollama-in-windows-wsl2-2a42bdcbc998?source=rss-a8381aa83da7------2)
 - [[AI Image Generator] Install &amp; How to use ComfyUI Manager](https://panachai-ny.medium.com/ai-image-generator-install-how-to-use-comfyui-manager-af2f691b3a96?source=rss-a8381aa83da7------2)
 - [[AI Image Generator] ComfyUI in API Integration with HTTP Requests](https://panachai-ny.medium.com/comfyui-in-api-integration-with-http-requests-0fc5a7d7dfe1?source=rss-a8381aa83da7------2)
-- [[AWS] how to mapping path params in Amazon API Gateway to AWS Lambda on Golang Part 2/2](https://panachai-ny.medium.com/aws-how-to-mapping-path-params-in-amazon-api-gateway-to-aws-lambda-on-golang-part-2-2-cd274e13c183?source=rss-a8381aa83da7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
